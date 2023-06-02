@@ -1,23 +1,33 @@
-# intergoodies-sti
+# InterGoodies
 
-A new Flutter project.
+The final project consists of creating an online product sales application written in Flutter (Dart), where the user will be able to order exotic products from his/her country and other
+countries using only his/her phone. The name of the application is InterGoodies and it will have available products from the following countries, Brazil, China, India, Japan and Korea.
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Prototype project part of the unit "Interactive Systems and Technologies" for the Masters in Software Engineering at University of Madeira
 
-### IMPORTANT:
+### Authors:
+- Luiz Sachser
+- Ana Catarina Santos
+- Elton Camacho
+- Felipe Clevert
+- Pedro Sousa
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
+### Learning Outcomes:
+- UI/UX principles and interaction techniques
+- Prototyping in low/high fidelity using Figma and Flutterflow
+- Software development project management
+- User testing and evaluation
 
-```
-flutter pub get
-flutter packages pub run build_runner build --delete-conflicting-outputs
-```
+### Contents:
+- Source Code
+- APK
+- Final report
+- Presentation
 
-This command creates the generated files that parse each Record from Firestore into a schema object.
 
-### Getting started continued:
+### NOTES:
 
 This project is a starting point for a Flutter application.
 
