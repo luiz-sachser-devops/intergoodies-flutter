@@ -5,7 +5,7 @@ countries using only his/her phone. The name of the application is InterGoodies 
 
 ## Getting Started
 
-Prototype project part of the unit "Interactive Systems and Technologies" for the Masters in Software Engineering degree at University of Madeira
+Prototype project part of the unit "Interactive Systems and Technologies" for the Masters in Software Engineering degree at University of Madeira.
 
 ### Authors:
 - Luiz Sachser
